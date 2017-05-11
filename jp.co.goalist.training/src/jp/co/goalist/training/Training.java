@@ -10,5 +10,6 @@ public class Training {
 		SimpleDateFormat sdf = new SimpleDateFormat("MM月dd日");
 
 		System.out.println("今日は"+sdf.format(c.getTime()) + "です");
+		System.out.println("aAaaa");
 	}
 }
